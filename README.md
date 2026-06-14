@@ -226,10 +226,30 @@ the paper. A few representative outputs are shown below.
 <table>
   <tr>
     <td align="center">
-      <img src="plots_penetration/final/combined_overview.png" width="720"/><br/>
-      <b>Penetration-aware policy comparison</b>
+      <img src="plots_penetration/final/overview_presslight_throughput.png" width="420"/><br/>
+      <b>PressLight throughput</b>
     </td>
+    <td align="center">
+      <img src="plots_penetration/final/overview_presslight_travel_time.png" width="420"/><br/>
+      <b>PressLight travel time</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="plots_penetration/final/overview_mplight_throughput.png" width="420"/><br/>
+      <b>MPLight throughput</b>
+    </td>
+    <td align="center">
+      <img src="plots_penetration/final/overview_mplight_travel_time.png" width="420"/><br/>
+      <b>MPLight travel time</b>
+    </td>
+  </tr>
 </table>
+
+<p align="center">
+  <img src="plots_penetration/final/MLR_and_delay_against_SNR_penalty.png" width="650"/><br/>
+  <b>Average C-V2I message loss ratio and end-to-end delay under varying SNR penalty.</b>
+</p>
 
 ---
 
