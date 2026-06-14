@@ -1,4 +1,9 @@
-# PAPL-TSC: Penetration-Aware Policy Learning for Traffic Signal Control
+<h1 align="center">PAPL-TSC: Penetration-Aware Policy Learning for Traffic Signal Control</h1>
+
+<p align="center">
+  <img alt="Paper" src="https://img.shields.io/static/v1?label=Paper&message=IEEE%20VTC%2C%20Boston%202026&color=green&style=flat-square">&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="LICENSE"><img alt="License" src="https://img.shields.io/static/v1?label=License&message=MIT&color=blue&style=flat-square"></a>
+</p>
 
 Deep reinforcement learning (DRL) traffic signal control under **partial vehicle
 observability**, evaluated in a realistic **C-V2X communication environment**
@@ -68,9 +73,6 @@ PAPL-TSC/
 └── plots_penetration/           # Generated figures (penetration, OMNeT, runtime)
 ```
 
-> **Note on co-simulation.** The *live* OMNeT++/Simu5G side of the loop requires a
-> separate OMNeT++ workspace and a built Simu5G project; that workspace is **not**
-> bundled here. All SUMO-only training, inference, and analysis steps run without it.
 
 ---
 
