@@ -226,7 +226,7 @@ the paper. A few representative outputs are shown below.
 <table>
   <tr>
     <td align="center">
-      <img src="plots_penetration/final/combined_overview.png" width="420"/><br/>
+      <img src="plots_penetration/final/combined_overview.png" width="720"/><br/>
       <b>Penetration-aware policy comparison</b>
     </td>
 </table>
