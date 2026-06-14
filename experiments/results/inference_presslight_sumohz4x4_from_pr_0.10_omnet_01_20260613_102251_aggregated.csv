@@ -1,0 +1,2 @@
+agent,network,world,train_pr,infer_pr,n_success,n_total,travel_time_mean,travel_time_std,travel_time_ci95_low,travel_time_ci95_high,loss_mean,loss_std,loss_ci95_low,loss_ci95_high,reward_mean,reward_std,reward_ci95_low,reward_ci95_high,queue_mean,queue_std,queue_ci95_low,queue_ci95_high,delay_mean,delay_std,delay_ci95_low,delay_ci95_high,throughput_mean,throughput_std,throughput_ci95_low,throughput_ci95_high
+presslight,sumohz4x4,sumo,0.1,1.0,1,1,300.2,0.0,300.2,300.2,0.0,0.0,0.0,0.0,-51.45,0.0,-51.45,-51.45,5.08,0.0,5.08,5.08,0.12,0.0,0.12,0.12,368.0,0.0,368.0,368.0

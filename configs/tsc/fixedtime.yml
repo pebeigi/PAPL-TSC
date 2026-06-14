@@ -1,0 +1,18 @@
+includes:
+- configs/tsc/base.yml
+logger:
+  load_model: false
+  save_rate: 1
+  test_model: true
+  train_model: false
+model:
+  name: fixedtime
+  t_fixed: 37.95083683205708
+trainer:
+  action_interval: 40
+  buffer_size: 0
+  episodes: 1
+  learning_rate: 0
+  learning_start: 0
+  update_model_rate: 0
+  update_target_rate: 0

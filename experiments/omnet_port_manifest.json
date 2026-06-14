@@ -1,0 +1,146 @@
+{
+  "1": {
+    "slot": 1,
+    "workspace": "gwu-workspace-pedestrians",
+    "workspace_dir": "/home/exx/Desktop/vtc2026/omnet_files/gwu-workspace-pedestrians",
+    "traci_port": 9999,
+    "omnet_csv_path": "/home/exx/Desktop/vtc2026/omnet_files/gwu-workspace-pedestrians/simu5G/simulations/NR/cars/SUMO_output_CV2X.csv",
+    "omnet_ini_path": "/home/exx/Desktop/vtc2026/omnet_files/gwu-workspace-pedestrians/simu5G/simulations/NR/cars/omnetpp-CV2X.ini"
+  },
+  "2": {
+    "slot": 2,
+    "workspace": "gwu-workspace-pedestrians-2",
+    "workspace_dir": "/home/exx/Desktop/vtc2026/omnet_files/gwu-workspace-pedestrians-2",
+    "traci_port": 10001,
+    "omnet_csv_path": "/home/exx/Desktop/vtc2026/omnet_files/gwu-workspace-pedestrians-2/simu5G/simulations/NR/cars/SUMO_output_CV2X.csv",
+    "omnet_ini_path": "/home/exx/Desktop/vtc2026/omnet_files/gwu-workspace-pedestrians-2/simu5G/simulations/NR/cars/omnetpp-CV2X.ini"
+  },
+  "3": {
+    "slot": 3,
+    "workspace": "gwu-workspace-pedestrians-3",
+    "workspace_dir": "/home/exx/Desktop/vtc2026/omnet_files/gwu-workspace-pedestrians-3",
+    "traci_port": 10003,
+    "omnet_csv_path": "/home/exx/Desktop/vtc2026/omnet_files/gwu-workspace-pedestrians-3/simu5G/simulations/NR/cars/SUMO_output_CV2X.csv",
+    "omnet_ini_path": "/home/exx/Desktop/vtc2026/omnet_files/gwu-workspace-pedestrians-3/simu5G/simulations/NR/cars/omnetpp-CV2X.ini"
+  },
+  "4": {
+    "slot": 4,
+    "workspace": "gwu-workspace-pedestrians-4",
+    "workspace_dir": "/home/exx/Desktop/vtc2026/omnet_files/gwu-workspace-pedestrians-4",
+    "traci_port": 10005,
+    "omnet_csv_path": "/home/exx/Desktop/vtc2026/omnet_files/gwu-workspace-pedestrians-4/simu5G/simulations/NR/cars/SUMO_output_CV2X.csv",
+    "omnet_ini_path": "/home/exx/Desktop/vtc2026/omnet_files/gwu-workspace-pedestrians-4/simu5G/simulations/NR/cars/omnetpp-CV2X.ini"
+  },
+  "5": {
+    "slot": 5,
+    "workspace": "gwu-workspace-pedestrians-5",
+    "workspace_dir": "/home/exx/Desktop/vtc2026/omnet_files/gwu-workspace-pedestrians-5",
+    "traci_port": 10007,
+    "omnet_csv_path": "/home/exx/Desktop/vtc2026/omnet_files/gwu-workspace-pedestrians-5/simu5G/simulations/NR/cars/SUMO_output_CV2X.csv",
+    "omnet_ini_path": "/home/exx/Desktop/vtc2026/omnet_files/gwu-workspace-pedestrians-5/simu5G/simulations/NR/cars/omnetpp-CV2X.ini"
+  },
+  "6": {
+    "slot": 6,
+    "workspace": "gwu-workspace-pedestrians-6",
+    "workspace_dir": "/home/exx/Desktop/vtc2026/omnet_files/gwu-workspace-pedestrians-6",
+    "traci_port": 10009,
+    "omnet_csv_path": "/home/exx/Desktop/vtc2026/omnet_files/gwu-workspace-pedestrians-6/simu5G/simulations/NR/cars/SUMO_output_CV2X.csv",
+    "omnet_ini_path": "/home/exx/Desktop/vtc2026/omnet_files/gwu-workspace-pedestrians-6/simu5G/simulations/NR/cars/omnetpp-CV2X.ini"
+  },
+  "7": {
+    "slot": 7,
+    "workspace": "gwu-workspace-pedestrians-7",
+    "workspace_dir": "/home/exx/Desktop/vtc2026/omnet_files/gwu-workspace-pedestrians-7",
+    "traci_port": 10011,
+    "omnet_csv_path": "/home/exx/Desktop/vtc2026/omnet_files/gwu-workspace-pedestrians-7/simu5G/simulations/NR/cars/SUMO_output_CV2X.csv",
+    "omnet_ini_path": "/home/exx/Desktop/vtc2026/omnet_files/gwu-workspace-pedestrians-7/simu5G/simulations/NR/cars/omnetpp-CV2X.ini"
+  },
+  "8": {
+    "slot": 8,
+    "workspace": "gwu-workspace-pedestrians-8",
+    "workspace_dir": "/home/exx/Desktop/vtc2026/omnet_files/gwu-workspace-pedestrians-8",
+    "traci_port": 10013,
+    "omnet_csv_path": "/home/exx/Desktop/vtc2026/omnet_files/gwu-workspace-pedestrians-8/simu5G/simulations/NR/cars/SUMO_output_CV2X.csv",
+    "omnet_ini_path": "/home/exx/Desktop/vtc2026/omnet_files/gwu-workspace-pedestrians-8/simu5G/simulations/NR/cars/omnetpp-CV2X.ini"
+  },
+  "9": {
+    "slot": 9,
+    "workspace": "gwu-workspace-pedestrians-9",
+    "workspace_dir": "/home/exx/Desktop/vtc2026/omnet_files/gwu-workspace-pedestrians-9",
+    "traci_port": 10015,
+    "omnet_csv_path": "/home/exx/Desktop/vtc2026/omnet_files/gwu-workspace-pedestrians-9/simu5G/simulations/NR/cars/SUMO_output_CV2X.csv",
+    "omnet_ini_path": "/home/exx/Desktop/vtc2026/omnet_files/gwu-workspace-pedestrians-9/simu5G/simulations/NR/cars/omnetpp-CV2X.ini"
+  },
+  "10": {
+    "slot": 10,
+    "workspace": "gwu-workspace-pedestrians-10",
+    "workspace_dir": "/home/exx/Desktop/vtc2026/omnet_files/gwu-workspace-pedestrians-10",
+    "traci_port": 10017,
+    "omnet_csv_path": "/home/exx/Desktop/vtc2026/omnet_files/gwu-workspace-pedestrians-10/simu5G/simulations/NR/cars/SUMO_output_CV2X.csv",
+    "omnet_ini_path": "/home/exx/Desktop/vtc2026/omnet_files/gwu-workspace-pedestrians-10/simu5G/simulations/NR/cars/omnetpp-CV2X.ini"
+  },
+  "11": {
+    "slot": 11,
+    "workspace": "gwu-workspace-pedestrians-11",
+    "workspace_dir": "/home/exx/Desktop/vtc2026/omnet_files/gwu-workspace-pedestrians-11",
+    "traci_port": 10019,
+    "omnet_csv_path": "/home/exx/Desktop/vtc2026/omnet_files/gwu-workspace-pedestrians-11/simu5G/simulations/NR/cars/SUMO_output_CV2X.csv",
+    "omnet_ini_path": "/home/exx/Desktop/vtc2026/omnet_files/gwu-workspace-pedestrians-11/simu5G/simulations/NR/cars/omnetpp-CV2X.ini"
+  },
+  "12": {
+    "slot": 12,
+    "workspace": "gwu-workspace-pedestrians-12",
+    "workspace_dir": "/home/exx/Desktop/vtc2026/omnet_files/gwu-workspace-pedestrians-12",
+    "traci_port": 10021,
+    "omnet_csv_path": "/home/exx/Desktop/vtc2026/omnet_files/gwu-workspace-pedestrians-12/simu5G/simulations/NR/cars/SUMO_output_CV2X.csv",
+    "omnet_ini_path": "/home/exx/Desktop/vtc2026/omnet_files/gwu-workspace-pedestrians-12/simu5G/simulations/NR/cars/omnetpp-CV2X.ini"
+  },
+  "13": {
+    "slot": 13,
+    "workspace": "gwu-workspace-pedestrians-13",
+    "workspace_dir": "/home/exx/Desktop/vtc2026/omnet_files/gwu-workspace-pedestrians-13",
+    "traci_port": 10023,
+    "omnet_csv_path": "/home/exx/Desktop/vtc2026/omnet_files/gwu-workspace-pedestrians-13/simu5G/simulations/NR/cars/SUMO_output_CV2X.csv",
+    "omnet_ini_path": "/home/exx/Desktop/vtc2026/omnet_files/gwu-workspace-pedestrians-13/simu5G/simulations/NR/cars/omnetpp-CV2X.ini"
+  },
+  "14": {
+    "slot": 14,
+    "workspace": "gwu-workspace-pedestrians-14",
+    "workspace_dir": "/home/exx/Desktop/vtc2026/omnet_files/gwu-workspace-pedestrians-14",
+    "traci_port": 10025,
+    "omnet_csv_path": "/home/exx/Desktop/vtc2026/omnet_files/gwu-workspace-pedestrians-14/simu5G/simulations/NR/cars/SUMO_output_CV2X.csv",
+    "omnet_ini_path": "/home/exx/Desktop/vtc2026/omnet_files/gwu-workspace-pedestrians-14/simu5G/simulations/NR/cars/omnetpp-CV2X.ini"
+  },
+  "15": {
+    "slot": 15,
+    "workspace": "gwu-workspace-pedestrians-15",
+    "workspace_dir": "/home/exx/Desktop/vtc2026/omnet_files/gwu-workspace-pedestrians-15",
+    "traci_port": 10027,
+    "omnet_csv_path": "/home/exx/Desktop/vtc2026/omnet_files/gwu-workspace-pedestrians-15/simu5G/simulations/NR/cars/SUMO_output_CV2X.csv",
+    "omnet_ini_path": "/home/exx/Desktop/vtc2026/omnet_files/gwu-workspace-pedestrians-15/simu5G/simulations/NR/cars/omnetpp-CV2X.ini"
+  },
+  "16": {
+    "slot": 16,
+    "workspace": "gwu-workspace-pedestrians-16",
+    "workspace_dir": "/home/exx/Desktop/vtc2026/omnet_files/gwu-workspace-pedestrians-16",
+    "traci_port": 10029,
+    "omnet_csv_path": "/home/exx/Desktop/vtc2026/omnet_files/gwu-workspace-pedestrians-16/simu5G/simulations/NR/cars/SUMO_output_CV2X.csv",
+    "omnet_ini_path": "/home/exx/Desktop/vtc2026/omnet_files/gwu-workspace-pedestrians-16/simu5G/simulations/NR/cars/omnetpp-CV2X.ini"
+  },
+  "17": {
+    "slot": 17,
+    "workspace": "gwu-workspace-pedestrians-17",
+    "workspace_dir": "/home/exx/Desktop/vtc2026/omnet_files/gwu-workspace-pedestrians-17",
+    "traci_port": 10031,
+    "omnet_csv_path": "/home/exx/Desktop/vtc2026/omnet_files/gwu-workspace-pedestrians-17/simu5G/simulations/NR/cars/SUMO_output_CV2X.csv",
+    "omnet_ini_path": "/home/exx/Desktop/vtc2026/omnet_files/gwu-workspace-pedestrians-17/simu5G/simulations/NR/cars/omnetpp-CV2X.ini"
+  },
+  "18": {
+    "slot": 18,
+    "workspace": "gwu-workspace-pedestrians-18",
+    "workspace_dir": "/home/exx/Desktop/vtc2026/omnet_files/gwu-workspace-pedestrians-18",
+    "traci_port": 10033,
+    "omnet_csv_path": "/home/exx/Desktop/vtc2026/omnet_files/gwu-workspace-pedestrians-18/simu5G/simulations/NR/cars/SUMO_output_CV2X.csv",
+    "omnet_ini_path": "/home/exx/Desktop/vtc2026/omnet_files/gwu-workspace-pedestrians-18/simu5G/simulations/NR/cars/omnetpp-CV2X.ini"
+  }
+}

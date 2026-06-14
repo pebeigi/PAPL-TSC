@@ -1,0 +1,2 @@
+run_idx,mode,agent,network,world,train_pr,infer_pr,checkpoint_episode,selection_metric,selection_value,omnet_slot,traci_port,omnet_csv_path,omnet_workspace,repeat_idx,seed,train_prefix,infer_prefix,output_dir,status,exit_code,travel_time,loss,reward,queue,delay,throughput
+1,baseline,mplight,sumohz4x4,sumo,1.0,1.0,40,travel_time,365.2,,,,,1,,omnet_off__pr_1.00,inference__from_pr_1.00__on_pr_1.00__ckpt_40,/home/exx/Desktop/vtc2026/LibSignal-master/data/output_data/tsc/sumo_mplight/sumohz4x4/inference__from_pr_1.00__on_pr_1.00__ckpt_40,success,0,304.1,0.0,-2.34,2.04,0.1,451.0

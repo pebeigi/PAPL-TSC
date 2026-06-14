@@ -1,0 +1,14 @@
+includes:
+- configs/tsc/base.yml
+model:
+  d_dense: 20
+  epsilon: 0.1
+  epsilon_decay: 0.995
+  epsilon_min: 0.01
+  name: presslight
+  one_hot: true
+  phase: true
+  train_model: true
+trainer:
+  buffer_size: 5000
+  learning_start: 1151.5103673272965

@@ -1,0 +1,24 @@
+# Core scientific stack
+numpy==1.21.5
+pandas>=1.3
+scipy>=1.7
+matplotlib>=3.4
+PyYAML==6.0
+sympy==1.10.1
+mpmath==1.2.1
+
+# Reinforcement learning environment + replay storage
+gym==0.21.0
+lmdb==1.3.0
+
+# Deep learning (CPU or CUDA build)
+torch>=1.10
+
+# Road-network / graph utilities
+networkx>=2.6
+
+# SUMO Python bindings (also requires a SUMO installation, see README)
+# Provided by the SUMO distribution: sumolib, libsumo, traci
+eclipse-sumo>=1.12.0
+libsumo>=1.12.0
+traci>=1.12.0
