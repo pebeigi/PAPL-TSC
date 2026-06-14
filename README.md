@@ -218,6 +218,36 @@ indicating the DRL controller is not a bottleneck for real-time operation.
 
 ---
 
+## Selected results
+
+The repository includes the aggregated CSV files and generated figures used in
+the paper. A few representative outputs are shown below.
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="plots_penetration/final/combined_overview.png" width="420"/><br/>
+      <b>Penetration-aware policy comparison</b>
+    </td>
+    <td align="center">
+      <img src="plots_penetration/omnet_grouped_presslight_throughput.png" width="420"/><br/>
+      <b>OMNeT++/Simu5G C-V2X impact</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="plots_penetration/mix%20plot/presslight_throughput_travel_time.png" width="420"/><br/>
+      <b>Throughput and travel-time tradeoff</b>
+    </td>
+    <td align="center">
+      <img src="plots_penetration/runtime_analysis/runtime_profile_summary.png" width="420"/><br/>
+      <b>Runtime feasibility analysis</b>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## Acknowledgements
 
 This codebase builds on [**LibSignal**](https://github.com/DaRL-LibSignal/LibSignal),
@@ -228,5 +258,33 @@ its authors. Communication modeling uses [OMNeT++](https://omnetpp.org/) with th
 
 ## Citation
 
-If you use this code, please cite our paper (details to be added upon
-publication) and the underlying LibSignal and Simu5G projects.
+If you use this repository, please cite the following papers:
+
+```bibtex
+@inproceedings{sleiman2026papl,
+  title     = {Deep Reinforcement Learning Under Partial Observability: Co-Simulation and Penetration-Aware Policy Learning for Traffic Signal Control},
+  author    = {Sleiman, Wissam and Beigi, Pedram and Petrov, Tibor and Buzna, Lubos and Pocta, Peter and Hamdar, Samer},
+  booktitle = {IEEE Vehicular Technology Conference (VTC)},
+  address   = {Boston, MA, USA},
+  year      = {2026}
+}
+
+@article{sleiman2025connectivity,
+  title     = {Impact of Pedestrian and Vehicle Connectivity on Intersection Performance: A High-Fidelity Simulation with Deep Reinforcement Learning Control},
+  author    = {Sleiman, Wissam and Beigi, Pedram and Petrov, Tibor and Buzna, Lubos and Pocta, Peter and Hamdar, Samer},
+  journal   = {Transportation Research Record},
+  pages     = {03611981251384965},
+  year      = {2025},
+  publisher = {SAGE Publications Sage CA: Los Angeles, CA}
+}
+
+@article{petrov2026simulation,
+  title     = {Simulation of Vehicle-to-Pedestrian Communication for Development of Novel C-ITS Services for Vulnerable Road Users},
+  author    = {Petrov, Tibor and Sleiman, Wissam and Beigi, Pedram and Po{\v{c}}ta, Peter and Buzna, L'ubo{\v{s}} and Hamdar, Samer},
+  journal   = {Transportation Research Procedia},
+  volume    = {93},
+  pages     = {674--679},
+  year      = {2026},
+  publisher = {Elsevier}
+}
+```
