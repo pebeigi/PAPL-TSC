@@ -236,10 +236,6 @@ the paper. A few representative outputs are shown below.
   </tr>
   <tr>
     <td align="center">
-      <img src="plots_penetration/mix%20plot/presslight_throughput_travel_time.png" width="420"/><br/>
-      <b>Throughput and travel-time tradeoff</b>
-    </td>
-    <td align="center">
       <img src="plots_penetration/runtime_analysis/runtime_profile_summary.png" width="420"/><br/>
       <b>Runtime feasibility analysis</b>
     </td>
