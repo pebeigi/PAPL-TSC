@@ -229,17 +229,6 @@ the paper. A few representative outputs are shown below.
       <img src="plots_penetration/final/combined_overview.png" width="420"/><br/>
       <b>Penetration-aware policy comparison</b>
     </td>
-    <td align="center">
-      <img src="plots_penetration/omnet_grouped_presslight_throughput.png" width="420"/><br/>
-      <b>OMNeT++/Simu5G C-V2X impact</b>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="plots_penetration/runtime_analysis/runtime_profile_summary.png" width="420"/><br/>
-      <b>Runtime feasibility analysis</b>
-    </td>
-  </tr>
 </table>
 
 ---
